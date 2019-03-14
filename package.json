@@ -1,0 +1,20 @@
+{
+  "name": "sass-partials",
+  "version": "1.0.0",
+  "description": "sass",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass index.scss > index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluerat1976/sass-partials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluerat1976/sass-partials/issues"
+  },
+  "homepage": "https://github.com/bluerat1976/sass-partials#readme"
+}
